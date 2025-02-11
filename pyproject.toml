@@ -1,0 +1,21 @@
+[project]
+name = "paper-implemetation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel",
+    "jupyter",
+    "opencv-python",
+    "pandas",
+    "numpy",
+    "torch",
+    "torchvision",
+    "python-dotenv",
+    "glob2",
+    "kaggle",
+    "matplotlib",
+    "seaborn",
+    "tqdm",
+]
