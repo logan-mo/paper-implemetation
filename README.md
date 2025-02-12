@@ -95,7 +95,7 @@ Here’s a table to my progress while replicating these research papers. All mod
 
 | **Stage** | **Model Name**                         | **Status**   |
 |-----------|----------------------------------------|--------------|
-| Stage 1   | LeNet-5                                | Not Done     |
+| Stage 1   | LeNet-5                                |     Done     |
 | Stage 1   | AlexNet                                | Not Done     |
 | Stage 1   | VGGNet                                 | Not Done     |
 | Stage 1   | GoogLeNet (Inception v1)               | Not Done     |
