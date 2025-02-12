@@ -93,7 +93,7 @@ This roadmap covers a broad range of paradigms and progressively builds my skill
 
 Here’s a table to my progress while replicating these research papers. All models are initially marked as "Not Done." I will update the status as I complete each implementation:
 
-| **Stage** | **Model Name**                       | **Status**   |
+| **Stage** | **Model Name**                         | **Status**   |
 |-----------|----------------------------------------|--------------|
 | Stage 1   | LeNet-5                                | Not Done     |
 | Stage 1   | AlexNet                                | Not Done     |
@@ -107,7 +107,7 @@ Here’s a table to my progress while replicating these research papers. All mod
 | Stage 2   | YOLOv3                                 | Not Done     |
 | Stage 2   | Mask R-CNN                             | Not Done     |
 | Stage 3   | Vanilla RNNs and LSTMs                 | Not Done     |
-| Stage 3   | GRUs                                    | Not Done     |
+| Stage 3   | GRUs                                   | Not Done     |
 | Stage 3   | Seq2Seq with Attention                 | Not Done     |
 | Stage 4   | Transformer                            | Not Done     |
 | Stage 4   | BERT                                   | Not Done     |
