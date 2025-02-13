@@ -6,7 +6,7 @@ Here's a comprehensive roadmap divided into stages with recommended papers for i
 1. **LeNet-5** (1998) - *Gradient-Based Learning Applied to Document Recognition*  
    - [Yann LeCun et al](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf).
 2. **AlexNet** (2012) - *ImageNet Classification with Deep Convolutional Neural Networks*  
-   - Alex Krizhevsky et al.
+   - [Alex Krizhevsky et al](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
 3. **VGGNet** (2014) - *Very Deep Convolutional Networks for Large-Scale Image Recognition*  
    - Karen Simonyan & Andrew Zisserman
 4. **GoogLeNet (Inception v1)** (2014) - *Going Deeper with Convolutions*  
